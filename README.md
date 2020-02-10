@@ -1,1 +1,3 @@
-# nutrition
+# maven-project
+
+Simple Maven Project
